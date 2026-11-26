@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hello, I'm [Gabriel] 👋
 
-<!--
-**GREATNESS119/Greatness119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring professional interested in
+technology, digital skills and continuous learning.
 
-Here are some ideas to get you started:
+### About Me
+- Currently developing my professional skills.
+- Interested in building practical projects.
+- Open to learning and collaboration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- [data analysis]
+
+### Current Goals
+- Build a professional portfolio.
+- Learn new digital tools.
+- Work on practical projects.
+
+### Connect With Me
+- LinkedIn: [https://www.linkedin.com/in/gabrieladejoh119]
